@@ -1,0 +1,59 @@
+---
+title: "Maiti Peters"
+image: "Headshot.jpg"
+links:
+  - label: "🔗 LinkedIn"
+    url: "https://linkedin.com/in/maiti-peters"
+  - label: "💻 GitHub"
+    url: "https://github.com/maitikieran"
+  - label: "✉️ Email"
+    url: "mailto:maitikieran@gmail.com"
+  - label: "🦠 Fun Website"
+    url: "https://www.cdc.gov/museum/cards.htm"
+
+output:
+  postcards::jolla
+---
+
+## Bio
+
+I am a Master of Public Health student at the Bloomberg School of Public Health and currently between my third and fourth years of medical school at the University of Iowa. My research interests include infectious disease, global health, and women’s health. Beyond my academic and clinical training, I enjoy reading and traveling 📚 ✈️.
+
+## Education
+
+**The Johns Hopkins University** | Baltimore, MD
+
+Master of Public Health Candidate, 2026
+
+**University of Iowa** <img src="tigerhawk.png" width="20" alt="Tigerhawk logo"/> | Iowa City, IA
+
+B.S. in Global Health and Interdepartmental Health Sciences, 2020
+M.D. Candidate, 2027
+
+**University of Notre Dame** | Notre Dame, IN
+
+M.S. in Global Health, 2021
+
+
+
+## Experience
+
+**Callen-Lorde Community Health Center** &nbsp;|&nbsp; Public Health AmeriCorps Member &nbsp;|&nbsp; Aug 2021 – Apr 2022  
+
+**Indiana Department of Public Health** &nbsp;|&nbsp; Public Health Intern &nbsp;|&nbsp; May 2021 – Aug 2021  
+
+
+## Background and This Class
+I previously earned a master’s degree where I focused on analyzing survey data and conducting statistical analyses, but I have limited programming experience. In this class, I hope to strengthen my programming skills, particularly in ways that can be applied to public health research and practice.
+
+## 5 Fun Facts
+
+<div style="text-align: left;">
+
+1) I grew up in Arizona but have never been to the Grand Canyon.
+2) I have two different colored eyes.
+3) My dog was kidnapped for a whole month.
+4) I worked as an entomologist and I am terrified of insects.
+5) I worked at McDonalds in high school.
+
+</div>
